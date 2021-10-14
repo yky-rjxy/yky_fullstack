@@ -1,0 +1,12 @@
+<!-- 手机产品数据已经到了前端 -->
+<view class="" wx:for="{{phone_list}}" wx:for-item="phone"
+  >
+  <van-card
+    thumb= "{{phone.image}}"
+    title= "{{phone.title}}"
+    price= "{{phone.price}}"
+    data-id="{{phone._id}}"
+    bind:click
+     >
+  </van-card>
+</view>

@@ -1,0 +1,1 @@
+"D:\小程序\微信web开发者工具\cli.bat" cloud functions deploy --e yky-0go849lrd628f36f --n quickstartFunctions --r --project "D:\旅梦\2012\workspace\yky_fullstack\wxapp\userinfo" --report_first --report
