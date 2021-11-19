@@ -1,0 +1,17 @@
+{
+  "name": "mail",
+  "version": "1.0.0",
+  "description": "- 队长每天都被辅导员diao。。。。\r   每天发一条消息\r   npm i -g stylus global 全局\r   npm i nodemailer 当前项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "node-schedule": "^2.0.0",
+    "nodemailer": "^6.7.0"
+  }
+}
