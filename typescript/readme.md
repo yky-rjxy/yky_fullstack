@@ -9,7 +9,10 @@
 - html 不再是html,字符串模板``
 - css 不再是css stylus/sass/less
 - js 不再是js ts
-
+  tsc 2.ts
+  node 2.js
+  tsc -w common.ts
+  
 编译
 
 
